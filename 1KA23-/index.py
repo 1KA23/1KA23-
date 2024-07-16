@@ -10,3 +10,5 @@ c = 'jaki'
 
 print (a, b, c)
 
+print ('bahaya mengancam')
+
